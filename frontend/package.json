@@ -1,5 +1,4 @@
 {
-  "homepage" : "https://Simrann020.github.io/Yoga-Posture-Detection-and-Correction",
   "name": "yogaintellij",
   "version": "0.1.0",
   "private": true,
@@ -29,8 +28,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build https://github.com/Simrann020/Yoga-Posture-Detection-and-Correction",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
